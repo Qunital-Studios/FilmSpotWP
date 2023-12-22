@@ -1,2 +1,3 @@
 # FilmSpotWP
-FilmSpot - Where passion and film meet!
+> [!NOTE]
+> FilmSpot - Where passion and film meet!
